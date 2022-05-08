@@ -1,0 +1,19 @@
+{
+  "name": "tests",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "mocha"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "firebase": "^9.6.4"
+  },
+  "dependencies": {
+    "mocha": "^9.2.0",
+    "node-fetch": "^3.2.0"
+  }
+}
